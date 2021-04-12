@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    letter-spacing: -2px;
+    color:teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+img{
+    height: 400px;
+        border: solid white 1px;
+        box-shadow: gray 0 0 10px;
+    
+        width: auto;
+    }
+    
